@@ -6,7 +6,5 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (Python-examples)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="household utilities" />
-    <orderEntry type="module" module-name="PizzaPy" />
   </component>
 </module>
